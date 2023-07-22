@@ -1,0 +1,60 @@
+.stores-container {
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+}
+
+.store-box {
+    background-color: #fff;
+    width: 100%;
+    height: 298px;
+    border-radius: 8px;
+    margin-bottom: 18px;
+}
+
+.forward-reverse {
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-between;
+    padding: 17px 58px;
+}
+
+.p-fv {
+    color: #2da8ed;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.p-fv:hover {
+    color: #0070a8;
+}
+
+.add-store {
+    display: flex;
+    box-sizing: border-box;
+    font-size: 48px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #2da8ed;
+    align-items: center;
+    padding: 9px;
+    border-radius: 4px;
+}
+
+.add-store:hover {
+    background-color: #0070a8;
+}
+
+.text-add-store {
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+}
+
+.h3-add-store {
+    font-size: 16px;
+}
+
+.p-add-store {
+    font-size: 14px;
+}

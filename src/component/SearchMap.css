@@ -1,0 +1,47 @@
+.map-suggest {
+    height: auto;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 17px;
+}
+
+.topic-map-suggest {
+    font-size: 18px;
+}
+
+.image-map-suggest {
+    background-image: url(https://static2.wongnai.com/static2/images/3dwN7In.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 170px;
+    margin-top: 8px;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-map-suggest {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    width: 99px;
+    height: 36px;
+    background-color: #0093e8;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Kanit', sans-serif; font-family: 'Kanit', sans-serif;
+    border: none;
+    border-radius: 8px;
+    padding: 6px;
+}
+
+.button-map-suggest:hover {
+    background-color: #0070a8;
+}
+
+.p-map-suggest {
+    font-size: 16px;
+    margin-left: 6px;
+}

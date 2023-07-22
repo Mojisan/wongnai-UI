@@ -1,0 +1,68 @@
+.filter-navbar {
+    font-size: 14px;
+    color: #787f83;
+}
+
+.filter-form {
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    margin: 17px;
+}
+
+.filter-text {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    padding: 5px;
+}
+
+.radio-filter {
+    margin-top: 5px;
+    margin-right: 5px;
+    width: 24px;
+    height: 24px;
+}
+
+.line1-filter {
+    height: 1px;
+    width: 90%;
+    background-color: #e9ecee;
+    margin-left: 5%;
+}
+
+.topic-filter {
+    font-size: 16px;
+    color: #282d2e;
+}
+
+.inputPlace-filter {
+    padding: 9px;
+    background-color: #fff;
+    border: 1px solid #787f83;
+    border-radius: 4px;
+    font-family: 'Kanit', sans-serif;
+    margin: 10px 0;
+}
+
+.selectPlace-filter {
+    padding: 9px;
+    background-color: #fff;
+    border: 1px solid #787f83;
+    border-radius: 4px;
+    font-family: 'Kanit', sans-serif;
+    color: #3d4245;
+}
+
+.more-typeFood-filter {
+    color: #0093e8;
+    cursor: pointer;
+}
+
+.checkbox-filter {
+    width: 16px;
+    height: 16px;
+    border: 1px solid #8c9396;
+    border-radius: 5px;
+    margin-right: 5px;
+}

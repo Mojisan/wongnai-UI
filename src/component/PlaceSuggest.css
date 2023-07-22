@@ -1,0 +1,65 @@
+.place-suggest {
+    height: auto;
+    background-color: #fff;
+    border-radius: 8px;
+    margin-top: 16px;
+    padding: 17px;
+}
+
+.topic-place-suggest {
+    font-size: 18px;
+}
+
+.image-text-place-suggest {
+    display: flex;
+    box-sizing: border-box;
+    margin-top: 16px;
+}
+
+.image-place-suggest {
+    width: 64px;
+    height: 64px;
+    border-radius: 4px;
+    margin-right: 8px;
+}
+
+.text-place-suggest {
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+}
+
+.status-place-suggest {
+    display: flex;
+    box-sizing: border-box;
+}
+
+.headtext-place-suggest {
+    display: flex;
+    box-sizing: border-box;
+}
+
+.ad-text-place-suggest {
+    color: #3d4245;
+    font-size: 14px;
+    margin-right: 4px;
+}
+
+.title-text-place-suggest {
+    color: #1d2021;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.text-place-suggest {
+    margin-right: 8px;
+    font-size: 12px;
+    color: #787f83;
+}
+
+.sta-text-place-suggest {
+    color: #ff1d00;
+    font-size: 14px;
+    font-weight: 600;
+}
+

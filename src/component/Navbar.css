@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-container {
+    display: flex;
+    box-sizing: border-box;
+    width: 100%;
+    height: 80px;
+    background-color: #fff;
+    font-family: 'Kanit', sans-serif;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 20%;
+}
+
+.logo-search {
+    display: flex;
+    box-sizing: border-box;
+    font-size: 16px;
+    align-items: center;
+}
+
+.user-option {
+    display: flex;
+    box-sizing: border-box;
+    font-family: 16px;
+    align-items: center;
+    color: #282d2e;
+}
+
+.user-login {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    padding: 5px;
+    border-radius: 20px;
+    border: 1px solid #e9ecee;
+    height: 40px;
+}
+
+.user-icon {
+    font-size: 24px;
+}
+
+.login-text {
+    margin-left: 12px;
+    margin-right: 7px;
+}
+
+.dropdown-icon-user {
+    margin-left: 12px;
+    border-radius: 20px;
+    border: 1px solid #e9ecee;
+    background-color: #fff;
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+}
+
+.logo {
+    height: 48px;
+    margin-right: 3rem;
+}
+
+.place-search {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    height: 36px;
+    width: auto;
+    margin-right: 3rem;
+    background-color: #e9ecee;
+    padding: 6px 12px;
+    border-radius: 8px;
+}
+
+.inputText {
+    font-family: 'Kanit', sans-serif;
+    border: none;
+    background-color: #e9ecee;
+    padding: 0 12px;
+}
+
+.input-place {
+    width: 5rem;
+    color: #3d4245;
+}
+
+.input-name {
+    width: 11rem;
+    color:#3d4245;
+}
+
+.button-search {
+    background-color: #0093e8;
+    border: none;
+    border-radius: 0px 8px 8px 0px;
+    height: 36px;
+    width: 3rem;
+    color: #fff;
+}
+
+.button-search:hover {
+    background-color: #0070a8;
+}
+
+.name-button-search {
+    display: flex;
+    box-sizing: border-box;
+}
+
+.name-search {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    height: 36px;
+    width: auto;
+    background-color: #e9ecee;
+    padding: 6px 12px;
+    border-radius: 8px 0px 0px 8px;
+}
+
+.line-navbar {
+    height: 1px;
+    width: 100%;
+    background-color: #e9ecee;
+
+}

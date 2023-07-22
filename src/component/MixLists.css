@@ -1,0 +1,33 @@
+.lists-suggest {
+    height: auto;
+    background-color: #fff;
+    border-radius: 8px;
+    margin-top: 16px;
+    padding: 17px;
+}
+
+.topic-all-lists {
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+.topic-lists {
+    font-size: 18px;
+}
+
+.all-lists {
+    font-size: 16px;
+    color: #0093e8;
+    cursor: pointer;
+}
+
+.all-lists:hover {
+    text-decoration: underline;
+}
+
+.sub-lists-container {
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+}

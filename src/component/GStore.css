@@ -1,0 +1,16 @@
+.gallery-store {
+    display: flex;
+    box-sizing: border-box;
+    margin: 16px;
+}
+
+.image-gallery-store {
+    width: 109px;
+    height: 109px;
+    margin-right: 4px;
+    border-radius: 4px;
+}
+
+.lastImage-store {
+    margin-right: 0px;
+}

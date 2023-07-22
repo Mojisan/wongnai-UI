@@ -1,0 +1,17 @@
+.lists {
+    padding-top: 16px;
+}
+
+.img-list {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.p-list {
+    color: #282d2e;
+    font-size: 16px;
+}
+
+.p-list:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,33 @@
+.article-suggest {
+    height: auto;
+    background-color: #fff;
+    border-radius: 8px;
+    margin-top: 16px;
+    padding: 17px;
+}
+
+.topic-all-article {
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+.topic-article {
+    font-size: 18px;
+}
+
+.all-article {
+    font-size: 16px;
+    color: #0093e8;
+    cursor: pointer;
+}
+
+.all-article:hover {
+    text-decoration: underline;
+}
+
+.sub-article-container {
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+}
